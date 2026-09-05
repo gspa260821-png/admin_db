@@ -11,3 +11,6 @@ Solucion T-SQL para fortalecer el modelo DB_SHOP, definir seguridad por roles, c
 
 El archivo CSV se incluye solo como fuente local para el proceso ETL. No hay credenciales dentro de este repositorio.
 
+## Panel web de apoyo
+
+Ejecute `docker compose up -d` dentro de esta carpeta y abra `http://localhost:8091/panel_sql/`. El panel organiza el deber en sus seis bloques, permite copiar cada bloque y descargar el script completo. La ejecución T-SQL se realiza en SQL Server Management Studio contra la base DB_SHOP de la Actividad 2.

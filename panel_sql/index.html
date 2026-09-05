@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>DB SHOP | Panel de ejecucion</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header><p>ACTIVIDAD INTEGRADORA 3</p><h1>DB SHOP · Panel de ejecucion</h1><span>SQL Server · 6 bloques · ETL Tienda Online</span></header>
+  <main>
+    <section class="intro"><h2>Ejecuta el deber por bloques</h2><p>Selecciona un bloque, revisa el T-SQL y cópialo a SQL Server Management Studio. Se requiere la base <code>DB_SHOP</code> de la Actividad 2 antes de iniciar.</p><a class="download" href="../Estudiante_Actividad3.sql" download>Descargar script completo</a></section>
+    <section id="bloques" class="grid" aria-live="polite"></section>
+    <section class="runner"><h2>Pasos de ejecucion</h2><ol><li>Abra SSMS y conectese a SQL Server.</li><li>Abra el script descargado o copie cada bloque desde este panel.</li><li>Ejecute los bloques en orden del 1 al 6.</li><li>Para ETL, copie <code>pedidos_online.csv</code> a <code>C:\ETL\</code> y habilite su lectura para el servicio SQL Server.</li></ol><p class="note">El navegador no se conecta a SQL Server ni guarda claves: solo organiza el script para una ejecución segura desde SSMS.</p></section>
+  </main>
+  <template id="card"><article class="card"><div class="card-head"><span class="number"></span><h2></h2></div><p class="summary"></p><pre><code></code></pre><div class="actions"><button class="copy">Copiar bloque</button><button class="done">Marcar revisado</button></div><p class="status">Pendiente de ejecutar en SQL Server.</p></article></template>
+  <script src="panel.js"></script>
+</body>
+</html>
+

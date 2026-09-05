@@ -1,0 +1,9 @@
+services:
+  panel:
+    image: nginx:alpine
+    container_name: shop_sql_panel
+    ports:
+      - "8091:80"
+    volumes:
+      - ./:/usr/share/nginx/html:ro
+
