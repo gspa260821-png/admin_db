@@ -1,6 +1,6 @@
 /*
   Actividad Integradora 3 - Continuidad SHOP
-  Estudiante: estudiante
+  Estudiante: Jorge Salazar
   Motor: Microsoft SQL Server (T-SQL)
   Fuente ETL: C:\ETL\pedidos_online.csv
 */
