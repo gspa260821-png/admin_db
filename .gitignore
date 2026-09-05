@@ -1,0 +1,4 @@
+*.bak
+*.log
+*.user
+qa_render/
