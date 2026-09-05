@@ -1,0 +1,167 @@
+NroPedidoWeb,FechaPedido,ClienteEmpresa,Producto,Cantidad,PrecioUnitario,Descuento,MetodoEnvio,Campana
+WEB-9110,06/26/2026,Lonesome Pine Restaurant,Röd Kaviar,3,52.60,0,Speedy Gonzalez Express,Push Campaing
+WEB-9160,24-06-2026,Richter Supermarkt,Filo Mix,10,34.43,0,Retiro en tienda,Automatic CRM Campaing
+WEB-9108,20/08/2026,Berglunds snabbköp,Raclette Courdavault,25,54.98,0.15,World Package,Opening Campaing
+WEB-9125,06/29/2026,Que Delícia,Pavlova,17,22.75,0.1,National Shipping,GoodBye Campaing
+WEB-9140,07/24/2026,Richter Supermarkt,Genen Shouyu,23,41.72,0.1,National Shipping,
+WEB-9062,07/22/2026,Bon app',Chocolade,8,19.61,0.1,National Shipping,Opening Campaing
+WEB-9049,26-06-2026,Océano Atlántico Ltda.,Outback Lager,25,"45,87",0.1,World Package,
+WEB-9109,07/25/2026,White Clover Markets,Original Frankfurter grüne Soße,4,59.73,0.15,World Package,Winter is Comming Again 
+WEB-9005,22/06/2026,Berglunds snabbköp,Sir Rodney's Scones,12,51.43,0,Speedy Gonzalez Express,Test New CRM
+WEB-9098,05/08/2026,Furia Bacalhau e Frutos do Mar,Wimmers gute Semmelknödel,22,"28,65",0,World Package,GoodBye Campaing
+WEB-9042,2026-06-27,North/South,Filo Mix,21,50.66,0,National Shipping,GoodBye Campaing
+WEB-9126,21-06-2026,Old World Delicatessen,Outback Lager,24,42.53,0.1,Speedy Gonzalez Express,
+WEB-9134,07/20/2026,Old World Delicatessen,Sir Rodney's Scones,20,44.29,0,National Shipping,Opening Campaing
+WEB-9053,2026-08-22,Trail's Head Gourmet Provisioners,Aniseed Syrup,25,55.38,0,Speedy Gonzalez Express,Schools Return
+WEB-9114,02-08-2026,Reggiani Caseifici,Genen Shouyu,19,60.20,0,National Shipping,Aniversary Campaing
+WEB-9113,12/08/2026,Ottilies Käseladen,Queso Manchego La Pastora,2,27.03,0.05,National Shipping,Christmas Campaing
+WEB-9105,08/01/2026,White Clover Markets,Sir Rodney's Scones,4,34.01,0.05,National Shipping,
+WEB-9026,19-08-2026,Richter Supermarkt,Aniseed Syrup,3,39.53,0,National Shipping,Schools Return
+WEB-9152,08/03/2026,Ana Trujillo Emparedados y helados,Queso Manchego La Pastora,-3,58.34,0.15,Speedy Gonzalez Express,First Day Campaing
+WEB-9157,,Distribuidora Andina Cia Ltda,Aniseed Syrup,12,30.90,0.05,National Shipping,
+WEB-9065,07/20/2026,Hungry Owl All-Night Grocers,Raclette Courdavault,11,"29,15",0.05,National Shipping,Summer Campaing
+WEB-9040,22/08/2026,Hungry Owl All-Night Grocers,Ikura,1,59.66,0.15,Speedy Gonzalez Express,Christmas Campaing
+WEB-9038,07-08-2026,Wilman Kala,Pavlova,12,"38,70",0.05,Speedy Gonzalez Express,Christmas Campaing
+WEB-9022,06-07-2026,White Clover Markets,Pavlova,1,10.78,0.05,Speedy Gonzalez Express,Aniversary Campaing
+WEB-9045,2026-06-21,Old World Delicatessen,Ipoh Coffee,12,59.02,0.1,World Package,Test New CRM
+WEB-9085,07-06-2026,Alfreds Futterkiste,Ikura,23,47.49,0,Speedy Gonzalez Express,
+WEB-9142,2026-08-05,Distribuidora Andina Cia Ltda,Aniseed Syrup,12,30.90,0.05,National Shipping,
+WEB-9156,27/07/2026,,Raclette Courdavault,17,16.07,0.15,Speedy Gonzalez Express,Push Campaing
+WEB-9072,2026-06-08,Lazy K Kountry Store,Perth Pasties,5,24.40,0.15,National Shipping,Push Campaing
+WEB-9015,2026-06-24,Old World Delicatessen,Sir Rodney's Scones,13,36.15,0,National Shipping,Winter is Comming Campaing
+WEB-9069,21/06/2026,Gourmet Lanchonetes,Sir Rodney's Marmalade,25,"60,06",0.05,National Shipping,Christmas Campaing
+WEB-9011,08/08/2026,Eastern Connection,Vegie-spread,16,"41,12",0.05,World Package,Automatic CRM Campaing
+WEB-9023,05-06-2026,Alfreds Futterkiste,Pavlova,13,"29,97",0.05,Speedy Gonzalez Express,Push Campaing
+WEB-9007,2026-07-02,Bon app',Outback Lager,12,35.98,0.05,National Shipping,Aniversary Campaing
+WEB-9155,22/08/2026,,Ikura,1,59.66,0.15,Speedy Gonzalez Express,Christmas Campaing
+WEB-9082,2026-08-17,Save-a-lot Markets,Gudbrandsdalsost,8,"56,42",0,National Shipping,Winter is Comming Campaing
+WEB-9101,24-06-2026,Richter Supermarkt,Filo Mix,10,34.43,0,Speedy Gonzalez Express,Automatic CRM Campaing
+WEB-9051,03/07/2026,Rattlesnake Canyon Grocery,Filo Mix,19,43.82,0.1,National Shipping,Push Campaing
+WEB-9008,07/04/2026,Alfreds Futterkiste,Vegie-spread,25,"50,26",0,World Package,First Day Campaing
+WEB-9121,08/01/2026,Godos Cocina Típica,Perth Pasties,13,62.04,0,Speedy Gonzalez Express,Opening Campaing
+WEB-9002,17-07-2026,Richter Supermarkt,Queso Manchego La Pastora,11,60.62,0.1,World Package,Schools Return
+WEB-9064,07/31/2026,Bon app',Fløtemysost,6,10.16,0.15,Speedy Gonzalez Express,Summer Campaing
+WEB-9063,06-06-2026,Paris spécialités,Original Frankfurter grüne Soße,12,58.42,0.05,Speedy Gonzalez Express,
+WEB-9092,06/30/2026,Folk och fä HB,Sir Rodney's Scones,20,"41,61",0.05,National Shipping,GoodBye Campaing
+WEB-9151,15-07-2026,Furia Bacalhau e Frutos do Mar,Outback Lager,-3,"59,17",0,National Shipping,Push Campaing
+WEB-9106,01-07-2026,Paris spécialités,Wimmers gute Semmelknödel,14,"21,87",0,National Shipping,Summer Campaing
+WEB-9024,02-07-2026,Rattlesnake Canyon Grocery,Gnocchi di nonna Alice,7,52.43,0.15,National Shipping,Summer Campaing
+WEB-9148,2026-08-14,Hungry Owl All-Night Grocers,Kit Promocional 2025,6,13.89,0.15,Speedy Gonzalez Express,Winter is Comming Campaing
+WEB-9150,2026-07-17,Trail's Head Gourmet Provisioners,Perth Pasties,-3,59.95,0.05,Speedy Gonzalez Express,Christmas Campaing
+WEB-9061,2026-06-11,Wilman Kala,Chocolade,7,"47,92",0,National Shipping,Opening Campaing
+WEB-9074,2026-07-19,Queen Cozinha,Gnocchi di nonna Alice,25,50.40,0,Speedy Gonzalez Express,Christmas Campaing
+WEB-9141,08/08/2026,Mercado Verde Express,Vegie-spread,16,"41,12",0.05,World Package,Automatic CRM Campaing
+WEB-9014,08/23/2026,Hungry Owl All-Night Grocers,Outback Lager,21,"33,47",0,Speedy Gonzalez Express,Test New CRM
+WEB-9018,13/08/2026,Furia Bacalhau e Frutos do Mar,Filo Mix,5,25.64,0,National Shipping,
+WEB-9088,06/24/2026,Rattlesnake Canyon Grocery,Gnocchi di nonna Alice,13,52.91,0.05,National Shipping,Summer Campaing
+WEB-9077,23-08-2026,Océano Atlántico Ltda.,Genen Shouyu,21,26.68,0,National Shipping,Schools Return
+WEB-9029,23-06-2026,Hungry Owl All-Night Grocers,Filo Mix,15,30.90,0.05,National Shipping,Summer Campaing
+WEB-9111,12-06-2026,Lonesome Pine Restaurant,Gudbrandsdalsost,17,30.79,0,National Shipping,Automatic CRM Campaing
+WEB-9162,06-07-2026,Queen Cozinha,Gula Malacca,9,"28,09",0,Retiro en tienda,
+WEB-9091,2026-07-06,Alfreds Futterkiste,Sir Rodney's Scones,16,24.60,0,National Shipping,
+WEB-9075,07/19/2026,Blauer See Delikatessen,Original Frankfurter grüne Soße,17,20.06,0,National Shipping,GoodBye Campaing
+WEB-9114,02-08-2026,Reggiani Caseifici,Genen Shouyu,19,60.20,0,National Shipping,Aniversary Campaing
+WEB-9033,13-08-2026,Océano Atlántico Ltda.,Raclette Courdavault,7,31.78,0.1,Speedy Gonzalez Express,Aniversary Campaing
+WEB-9032,18-06-2026,Reggiani Caseifici,Queso Manchego La Pastora,15,29.12,0,World Package,Winter is Comming Campaing
+WEB-9004,2026-06-24,Eastern Connection,Ipoh Coffee,8,40.58,0,National Shipping,Test New CRM
+WEB-9127,2026-08-22,Alfreds Futterkiste,Ipoh Coffee,5,"55,39",0.1,World Package,GoodBye Campaing
+WEB-9132,07/20/2026,White Clover Markets,Gula Malacca,5,"54,02",0.1,World Package,
+WEB-9100,2026-08-12,Lonesome Pine Restaurant,Original Frankfurter grüne Soße,20,"12,81",0,National Shipping,
+WEB-9046,2026-07-03,Eastern Connection,Perth Pasties,15,51.94,0,National Shipping,Christmas Campaing
+WEB-9086,18/08/2026,White Clover Markets,Gudbrandsdalsost,16,59.56,0,National Shipping,Test New CRM
+WEB-9104,06/19/2026,Ottilies Käseladen,Filo Mix,2,50.83,0.1,National Shipping,Summer Campaing
+WEB-9097,08/02/2026,Richter Supermarkt,Vegie-spread,7,58.83,0.15,World Package,Winter Campaing
+WEB-9028,07/01/2026,FISSA Fabrica Inter. Salchichas S.A.,Sir Rodney's Scones,17,22.49,0,National Shipping,Christmas Campaing
+WEB-9095,21-08-2026,Old World Delicatessen,Sir Rodney's Marmalade,23,8.64,0.1,National Shipping,Aniversary Campaing
+WEB-9076,29/07/2026,Lonesome Pine Restaurant,Filo Mix,2,15.80,0,Speedy Gonzalez Express,Winter is Comming Campaing
+WEB-9066,07/10/2026,Reggiani Caseifici,Gorgonzola Telino,3,35.74,0,National Shipping,Automatic CRM Campaing
+WEB-9068,08/03/2026,Ana Trujillo Emparedados y helados,Queso Manchego La Pastora,18,58.34,0.15,Speedy Gonzalez Express,First Day Campaing
+WEB-9043,2026-07-22,Old World Delicatessen,Raclette Courdavault,25,33.65,0,Speedy Gonzalez Express,Aniversary Campaing
+WEB-9119,07/31/2026,Blauer See Delikatessen,Perth Pasties,3,"53,25",0,World Package,
+WEB-9089,08/23/2026,Furia Bacalhau e Frutos do Mar,Raclette Courdavault,3,60.85,0,Speedy Gonzalez Express,GoodBye Campaing
+WEB-9060,22/06/2026,FISSA Fabrica Inter. Salchichas S.A.,Gnocchi di nonna Alice,6,56.30,0,National Shipping,Test New CRM
+WEB-9006,2026-07-23,Hungry Owl All-Night Grocers,Vegie-spread,12,17.11,0,National Shipping,Aniversary Campaing
+WEB-9044,27/06/2026,Save-a-lot Markets,Gula Malacca,19,"15,47",0,World Package,Opening Campaing
+WEB-9144,14/07/2026,TiendaWeb Guayaquil SA,Raclette Courdavault,12,29.99,0,National Shipping,Winter is Comming Campaing
+WEB-9090,2026-06-11,North/South,Gula Malacca,13,38.63,0,World Package,First Day Campaing
+WEB-9001,16-06-2026,White Clover Markets,Queso Manchego La Pastora,7,46.41,0.15,National Shipping,Push Campaing
+WEB-9107,2026-07-14,Bon app',Gudbrandsdalsost,14,21.25,0.15,World Package,Winter Campaing
+WEB-9009,20-06-2026,Furia Bacalhau e Frutos do Mar,Sir Rodney's Marmalade,13,"11,96",0,National Shipping,Automatic CRM Campaing
+WEB-9013,19/06/2026,Lazy K Kountry Store,Gorgonzola Telino,14,22.66,0.05,Speedy Gonzalez Express,Automatic CRM Campaing
+WEB-9083,07/20/2026,Ottilies Käseladen,Raclette Courdavault,14,22.41,0,National Shipping,Winter Campaing
+WEB-9087,27/07/2026,FISSA Fabrica Inter. Salchichas S.A.,Raclette Courdavault,17,16.07,0.15,Speedy Gonzalez Express,Push Campaing
+WEB-9117,2026-06-17,Save-a-lot Markets,Wimmers gute Semmelknödel,9,50.41,0,Speedy Gonzalez Express,First Day Campaing
+WEB-9027,2026-07-18,Alfreds Futterkiste,Chocolade,6,"48,13",0,National Shipping,Winter is Comming Again 
+WEB-9032,18-06-2026,Reggiani Caseifici,Queso Manchego La Pastora,15,29.12,0,World Package,Winter is Comming Campaing
+WEB-9099,2026-08-14,Hungry Owl All-Night Grocers,Pavlova,6,13.89,0.15,Speedy Gonzalez Express,Winter is Comming Campaing
+WEB-9080,21/06/2026,Godos Cocina Típica,Perth Pasties,12,19.68,0,Speedy Gonzalez Express,Summer Campaing
+WEB-9128,07/11/2026,Lazy K Kountry Store,Ipoh Coffee,18,10.42,0.05,Speedy Gonzalez Express,GoodBye Campaing
+WEB-9133,07/12/2026,Richter Supermarkt,Raclette Courdavault,19,"42,96",0,National Shipping,First Day Campaing
+WEB-9163,2026-06-11,North/South,Gula Malacca,13,38.63,0,Retiro en tienda,First Day Campaing
+WEB-9139,23-06-2026,Eastern Connection,Perth Pasties,25,64.39,0.1,Speedy Gonzalez Express,Schools Return
+WEB-9149,2026-08-15,Save-a-lot Markets,Combo Sorpresa Navideno,14,"42,91",0,World Package,GoodBye Campaing
+WEB-9130,2026-08-01,Ottilies Käseladen,Perth Pasties,12,33.26,0.15,World Package,Christmas Campaing
+WEB-9058,15-07-2026,Furia Bacalhau e Frutos do Mar,Outback Lager,21,"59,17",0,National Shipping,Push Campaing
+WEB-9122,2026-08-01,White Clover Markets,Aniseed Syrup,6,"22,85",0,Speedy Gonzalez Express,Aniversary Campaing
+WEB-9103,08/01/2026,Folk och fä HB,Wimmers gute Semmelknödel,4,"63,07",0.15,World Package,Winter Campaing
+WEB-9012,08/15/2026,Ottilies Käseladen,Outback Lager,13,47.06,0.15,Speedy Gonzalez Express,Summer Campaing
+WEB-9030,03/06/2026,Wilman Kala,Queso Manchego La Pastora,7,9.96,0.15,National Shipping,Christmas Campaing
+WEB-9120,21-06-2026,Godos Cocina Típica,Sir Rodney's Scones,8,38.38,0,Speedy Gonzalez Express,Opening Campaing
+WEB-9081,2026-06-04,Océano Atlántico Ltda.,Sir Rodney's Marmalade,12,47.52,0.1,Speedy Gonzalez Express,First Day Campaing
+WEB-9146,07/19/2026,Blauer See Delikatessen,Kit Promocional 2025,17,20.06,0,National Shipping,GoodBye Campaing
+WEB-9137,2026-08-15,Save-a-lot Markets,Fløtemysost,14,"42,91",0,World Package,GoodBye Campaing
+WEB-9057,2026-08-05,Rattlesnake Canyon Grocery,Aniseed Syrup,12,30.90,0.05,National Shipping,
+WEB-9070,07/02/2026,Hungry Owl All-Night Grocers,Sir Rodney's Scones,1,46.02,0,National Shipping,
+WEB-9116,08/14/2026,Ana Trujillo Emparedados y helados,Gudbrandsdalsost,19,30.08,0.15,World Package,Push Campaing
+WEB-9158,sin-fecha,Berglunds snabbköp,Sir Rodney's Scones,12,51.43,0,Speedy Gonzalez Express,Test New CRM
+WEB-9050,17-06-2026,Ottilies Käseladen,Gudbrandsdalsost,25,35.52,0,Speedy Gonzalez Express,Christmas Campaing
+WEB-9025,06/21/2026,Richter Supermarkt,Raclette Courdavault,20,"29,77",0.1,National Shipping,Opening Campaing
+WEB-9035,06/20/2026,Lonesome Pine Restaurant,Gnocchi di nonna Alice,18,"43,36",0.05,National Shipping,Winter is Comming Again 
+WEB-9143,20/06/2026,Mercado Verde Express,Original Frankfurter grüne Soße,19,12.16,0.05,National Shipping,Christmas Campaing
+WEB-9102,2026-06-27,Alfreds Futterkiste,Sir Rodney's Marmalade,13,"53,74",0.05,World Package,Test New CRM
+WEB-9036,24/06/2026,Reggiani Caseifici,Raclette Courdavault,21,43.75,0,National Shipping,Push Campaing
+WEB-9138,2026-06-17,Godos Cocina Típica,Outback Lager,2,40.25,0.15,National Shipping,Christmas Campaing
+WEB-9136,03/06/2026,Eastern Connection,Original Frankfurter grüne Soße,13,17.05,0,Speedy Gonzalez Express,
+WEB-9003,01-06-2026,Folk och fä HB,Fløtemysost,13,"23,15",0,Speedy Gonzalez Express,
+WEB-9054,08/23/2026,Trail's Head Gourmet Provisioners,Fløtemysost,25,"48,64",0,Speedy Gonzalez Express,Winter is Comming Again 
+WEB-9078,07/06/2026,Reggiani Caseifici,Vegie-spread,25,"30,33",0.15,National Shipping,Test New CRM
+WEB-9056,26/07/2026,Furia Bacalhau e Frutos do Mar,Gnocchi di nonna Alice,23,33.29,0.1,National Shipping,Christmas Campaing
+WEB-9039,06/03/2026,Berglunds snabbköp,Pavlova,7,36.66,0.15,World Package,Winter is Comming Campaing
+WEB-9147,2026-06-17,Godos Cocina Típica,Producto Descontinuado XZ,2,40.25,0.15,National Shipping,Christmas Campaing
+WEB-9135,01-07-2026,Paris spécialités,Sir Rodney's Marmalade,22,"48,99",0,Speedy Gonzalez Express,Christmas Campaing
+WEB-9079,2026-07-15,Gourmet Lanchonetes,Röd Kaviar,15,43.64,0,National Shipping,Summer Campaing
+WEB-9017,08/17/2026,White Clover Markets,Filo Mix,25,40.32,0.15,Speedy Gonzalez Express,Summer Campaing
+WEB-9153,06/21/2026,Richter Supermarkt,Raclette Courdavault,-3,"29,77",0.1,National Shipping,Opening Campaing
+WEB-9124,14/07/2026,Que Delícia,Raclette Courdavault,12,29.99,0,National Shipping,Winter is Comming Campaing
+WEB-9047,27/06/2026,Richter Supermarkt,Pavlova,16,35.20,0,National Shipping,
+WEB-9084,25/06/2026,Ottilies Käseladen,Wimmers gute Semmelknödel,8,25.05,0,World Package,GoodBye Campaing
+WEB-9123,07-07-2026,Rattlesnake Canyon Grocery,Fløtemysost,11,10.90,0,Speedy Gonzalez Express,Christmas Campaing
+WEB-9129,06/09/2026,Wilman Kala,Raclette Courdavault,1,22.93,0,World Package,Winter is Comming Campaing
+WEB-9059,2026-07-29,FISSA Fabrica Inter. Salchichas S.A.,Röd Kaviar,11,"47,46",0,Speedy Gonzalez Express,First Day Campaing
+WEB-9094,08/07/2026,Old World Delicatessen,Röd Kaviar,8,"36,61",0,National Shipping,Test New CRM
+WEB-9055,16/06/2026,Berglunds snabbköp,Aniseed Syrup,10,11.29,0.15,World Package,First Day Campaing
+WEB-9019,2026-08-19,Océano Atlántico Ltda.,Ipoh Coffee,20,"49,87",0.1,World Package,Schools Return
+WEB-9071,2026-08-01,Richter Supermarkt,Queso Manchego La Pastora,9,47.97,0,National Shipping,Christmas Campaing
+WEB-9096,25/06/2026,Save-a-lot Markets,Original Frankfurter grüne Soße,13,22.88,0.15,Speedy Gonzalez Express,GoodBye Campaing
+WEB-9073,06/04/2026,Reggiani Caseifici,Sir Rodney's Scones,18,29.65,0,National Shipping,Winter Campaing
+WEB-9021,31-07-2026,Godos Cocina Típica,Ikura,17,43.42,0,National Shipping,
+WEB-9112,27/06/2026,Blauer See Delikatessen,Fløtemysost,7,"31,72",0,Speedy Gonzalez Express,Summer Campaing
+WEB-9020,14/06/2026,Berglunds snabbköp,Sir Rodney's Scones,7,28.25,0,National Shipping,GoodBye Campaing
+WEB-9093,04-07-2026,Hungry Owl All-Night Grocers,Gudbrandsdalsost,17,62.70,0,Speedy Gonzalez Express,Winter is Comming Campaing
+WEB-9010,2026-07-17,Trail's Head Gourmet Provisioners,Perth Pasties,17,59.95,0.05,Speedy Gonzalez Express,Christmas Campaing
+WEB-9161,2026-07-18,Alfreds Futterkiste,Chocolade,6,"48,13",0,Retiro en tienda,Winter is Comming Again 
+WEB-9041,06/23/2026,Richter Supermarkt,Queso Manchego La Pastora,15,61.40,0,Speedy Gonzalez Express,Christmas Campaing
+WEB-9089,08/23/2026,Furia Bacalhau e Frutos do Mar,Raclette Courdavault,3,60.85,0,Speedy Gonzalez Express,GoodBye Campaing
+WEB-9145,04/06/2026,Distribuidora Andina Cia Ltda,Röd Kaviar,17,"56,36",0.05,National Shipping,Aniversary Campaing
+WEB-9159,,Queen Cozinha,Gula Malacca,9,"28,09",0,Speedy Gonzalez Express,
+WEB-9067,25/07/2026,Que Delícia,Original Frankfurter grüne Soße,22,33.23,0,Speedy Gonzalez Express,Christmas Campaing
+WEB-9031,2026-08-09,Océano Atlántico Ltda.,Filo Mix,20,"33,15",0.05,Speedy Gonzalez Express,Opening Campaing
+WEB-9131,18/08/2026,Lonesome Pine Restaurant,Sir Rodney's Marmalade,20,54.35,0.15,National Shipping,
+WEB-9115,2026-08-09,Océano Atlántico Ltda.,Gula Malacca,16,"50,34",0,Speedy Gonzalez Express,Opening Campaing
+WEB-9154,01-06-2026,,Fløtemysost,13,"23,15",0,Speedy Gonzalez Express,
+WEB-9118,04/06/2026,Berglunds snabbköp,Röd Kaviar,17,"56,36",0.05,National Shipping,Aniversary Campaing
+WEB-9034,20/06/2026,FISSA Fabrica Inter. Salchichas S.A.,Original Frankfurter grüne Soße,19,12.16,0.05,National Shipping,Christmas Campaing
+WEB-9048,21-06-2026,Folk och fä HB,Gorgonzola Telino,15,"53,76",0.15,Speedy Gonzalez Express,Aniversary Campaing
+WEB-9037,06-07-2026,Queen Cozinha,Gula Malacca,9,"28,09",0,Speedy Gonzalez Express,
+WEB-9052,06/10/2026,Que Delícia,Ikura,4,"60,90",0,National Shipping,Winter is Comming Again 
+WEB-9016,02-06-2026,Queen Cozinha,Gudbrandsdalsost,25,10.63,0.15,National Shipping,First Day Campaing
